@@ -1,6 +1,19 @@
 # Cadenero App Mobile
 
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white)](https://expo.dev/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+
 Aplicación móvil (Expo / React Native) para gestionar arriendos de cadenas de nieve del gremio de cadeneros Las Trancas. Es la versión móvil de [Cadenero-App](https://github.com/FranciscoAguilarCuadra/Cadenero-App) (web) y comparte el mismo backend de Supabase.
+
+<!--
+## Capturas
+Coloca las imágenes en `docs/screenshots/` y descomenta:
+![Dashboard](docs/screenshots/dashboard.png)
+![Nuevo arriendo](docs/screenshots/nuevo-arriendo.png)
+![Modo offline](docs/screenshots/offline.png)
+-->
 
 ## Funcionalidades (MVP)
 
